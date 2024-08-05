@@ -2,7 +2,7 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 37px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(0, 0, 0);
@@ -28,4 +28,11 @@ background-image: url("images.jpg");
 background-repeat: no-repeat;
 float: left;
 
+}
+.banano{
+height: 250px;
+width: 250px;
+background-image: url(Amperimetro.jpg);
+background-repeat: no-repeat;
+float: left;
 }
