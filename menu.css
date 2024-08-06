@@ -21,21 +21,21 @@ ul, ol {
 }
 
 .nav li a {
-    background-color: #ffffff;
-    color: #080808;
+    background-color: #f7c685;
+    color: #000000;
     text-decoration: none;
     padding: 10px 12px;
     display: block;
 }
 
 .nav li a:hover {
-    background-color: #f1c1ef;
+    background-color: #ffffff;
 }
 
 .nav li ul {
     display: none;
     position: absolute;
-    min-width: 140px;
+    min-width: 50px;
 }
 
 .nav li:hover > ul {
