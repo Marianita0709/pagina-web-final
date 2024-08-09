@@ -22,7 +22,7 @@ body{
     color: black;
     text-align: center;
 }
-.img1{
+.images{
 height: 215px;
 width: 313px;
 background-image: url("images.jpg");
@@ -90,22 +90,194 @@ float: left;
 
 
 
+.ej1{
+
+
+    height: 200px;
+    width: 300px;
+    background-image: url(ej1.jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
+
+
+.ej2{
+
+
+    height: 200px;
+    width: 300px;
+    background-image: url(ej2.jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
+
+
+.ej3{
+
+
+    height: 200px;
+    width: 300px;
+    background-image: url(ej3.jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
 
 
 
 
+.largo{
+
+
+    height: 600px;
+    width: 500px;
+    background-image: url(largo.jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
+
+
+.ej4{
+
+
+    height: 200px;
+    width: 300px;
+    background-image: url(ej4.jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
+
+
+.img1{
+
+
+    height: 290px;
+    width: 500px;
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
 
 
 
+.img2{
 
 
+    height: 290px;
+    width:600px;
+    background-image: url(img2.jpg);
+    background-repeat: no-repeat;
+    float:left
 
 
+}
 
 
+.cm{
 
 
+    height: 290px;
+    width:600px;
+    background-image: url(cm.jpg);
+    background-repeat: no-repeat;
+    float:left
 
+
+}
+
+.ff{
+
+
+    height: 290px;
+    width:600px;
+    background-image: url(ff.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
+
+.fl{
+
+
+    height: 290px;
+    width:600px;
+    background-image: url(fl.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
+
+.fm{
+
+
+    height: 290px;
+    width:600px;
+    background-image: url(fm.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
+
+.h{
+
+
+    height: 290px;
+    width:600px;
+    background-image: url(h.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
+
+.o{
+
+
+    height: 290px;
+    width:600px;
+    background-image: url(o.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
+
+.fotom{
+
+
+    height: 320px;
+    width:600px;
+    background-image: url(fotom.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
+.fotomj{
+
+
+    height: 320px;
+    width:600px;
+    background-image: url(fotomj.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
 
 
 
