@@ -2,7 +2,7 @@
 
 .texto{
    
-    font-size: 36px;
+    font-size: 35px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(0, 0, 0);
@@ -232,12 +232,12 @@ float: left;
 
 }
 
-.h{
+.hormonas{
 
 
     height: 290px;
     width:600px;
-    background-image: url(h.jpg);
+    background-image: url(hormonas.jpg);
     background-repeat: no-repeat;
     float:left
 
@@ -279,19 +279,380 @@ float: left;
 
 }
 
+.t1{
+
+
+    height: 210px;
+    width:1330px;
+    background-image: url(t1.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
+
+.t2{
+
+
+    height: 300px;
+    width:1330px;
+    background-image: url(t2.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
 
 
 
 
+.t3{
+
+
+    height: 300px;
+    width:1330px;
+    background-image: url(t3.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
 
 
 
+.t4{
+
+
+    height: 300px;
+    width:1330px;
+    background-image: url(t4.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
 
 
 
+.t5{
+
+
+    height: 300px;
+    width:1330px;
+    background-image: url(t5.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
 
 
 
+.t6{
+
+
+    height: 30px;
+    width:1330px;
+    background-image: url(t6.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+
+}
+
+
+.tp{
+
+
+    height: 290px;
+    width:600px;
+    background-image: url(tp.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+
+.ne{
+
+
+    height: 290px;
+    width:600px;
+    background-image: url(ne.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+
+.an{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(an.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.bl{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(bl.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.hn1{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn1.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+
+.hn2{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn2.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+
+.hn3{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn3.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+
+.hn4{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn4.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.hn5{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn5.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.hn6{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn6.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.hn7{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn7.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.hn8{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn8.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.hn9{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn9.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.hn10{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn10.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.hn11{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn11.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.hn12{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(hn12.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.h1{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h1.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.h2{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h2.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h3{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h3.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h4{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h4.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h5{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h5.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h6{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h6.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h7{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h7.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h8{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h8.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h9{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h9.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h10{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h10.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h11{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h11.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.h12{
+
+
+    height: 290px;
+    width:1330px;
+    background-image: url(h12.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
 
 
 
