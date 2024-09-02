@@ -647,7 +647,7 @@ float: left;
 
 
     height: 290px;
-    width:1330px;
+    width:600px;
     background-image: url(h12.jpg);
     background-repeat: no-repeat;
     float:left
@@ -655,6 +655,16 @@ float: left;
 }
 
 
+.fotof{
+
+
+    height: 380px;
+    width:600px;
+    background-image: url(fotof.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
 
 
 
