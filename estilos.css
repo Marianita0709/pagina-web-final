@@ -796,8 +796,8 @@ float: left;
 .mf13{
 
 
-    height: 100px;
-    width:400px;
+    height: 200px;
+    width:420px;
     background-image: url(mf13.jpg);
     background-repeat: no-repeat;
     float:left
@@ -813,11 +813,48 @@ float: left;
     float:left
 
 }
+.ib1{
 
 
+    height: 150px;
+    width:400px;
+    background-image: url(ib1.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+.ib2{
 
 
+    height: 152px;
+    width:400px;
+    background-image: url(ib2.jpg);
+    background-repeat: no-repeat;
+    float:left
 
+}
+
+.ib3{
+
+
+    height: 212px;
+    width:525px;
+    background-image: url(ib3.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.ib4{
+
+
+    height: 200px;
+    width:250px;
+    background-image: url(ib4.jpg);
+    background-repeat: no-repeat;
+    float:left
+
+}
 
 
 
