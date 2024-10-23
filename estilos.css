@@ -856,16 +856,52 @@ float: left;
 
 }
 .Enl{
-height: 200px;
-    width: 250px;
-    background-image:url(Enl.png);
+height: 310px;
+    width: 759px;
+    background-image:url(Enl.jpg);
     background-repeat:no-repeat; 
     float:left
 
 }
-.Descarga{
-    height: 200px;
-    width: 250px;
-    background-image:url(descargar.png);
+.mp{
+    height: 440px;
+    width: 962px;
+    background-image:url(mp.jpg);
     background-repeat:no-repeat; 
     float:left
+}
+.is{
+    height: 115px;
+    width: 260px;
+    background-image:url(is.jpg);
+    background-repeat:no-repeat; 
+    float:left
+}
+.ip{
+    height: 150px;
+    width: 235px;
+    background-image:url(ip.jpg);
+    background-repeat:no-repeat; 
+    float:left
+}
+.ic{
+    height: 150px;
+    width: 235px;
+    background-image:url(ic.jpg);
+    background-repeat:no-repeat; 
+    float:left
+}
+.isi{
+    height: 100px;
+    width: 260px;
+    background-image:url(isi.jpg);
+    background-repeat:no-repeat; 
+    float:left
+}
+.iy{
+    height: 145px;
+    width: 280px;
+    background-image:url(iy.jpg);
+    background-repeat:no-repeat; 
+    float:left
+}
